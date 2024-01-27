@@ -1,5 +1,3 @@
-https://gitlab.com/mintthiha/database2project
-
 - How to setup the database.
     In order to setup the database, the user will just need to run the script that is named 'setup.sql'. This file will automatically create everything needed to run the Java side of the application. It will create the tables, all the packages, triggers and object types. This file will also insert the raw data.
 
